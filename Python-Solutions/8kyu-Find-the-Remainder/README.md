@@ -26,7 +26,7 @@ result - division by zero (refer to the specifications on how to handle this in 
 
 # Solution:
 
-> Find the minimum Number of the two inputs
-> Check if the minimum Number of the two inputs is equal to 0
-> Return None if the minimum number is equal to 0
-> Else, Return the maximum number of the two inputs modulus by the minimum number of the two inputs
+1. Find the minimum Number of the two inputs
+2. Check if the minimum Number of the two inputs is equal to 0
+3. Return None if the minimum number is equal to 0
+4. Else, Return the maximum number of the two inputs modulus by the minimum number of the two inputs
